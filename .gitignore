@@ -1,0 +1,8 @@
+.venv
+.env
+
+indexes/*
+documents/*
+
+.idea
+.DS_Store

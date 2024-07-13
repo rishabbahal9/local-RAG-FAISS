@@ -46,5 +46,5 @@ $
 ```
 
 ### Tips
-1. In name of the pdf file, don't include the extension '.pdf'.
+1. While typing name of the pdf file in cli `Name of the pdf file:`, don't include the extension '.pdf', only the name.
 2. To exit the application, type 'exit'.
